@@ -20,3 +20,7 @@ directx runtimeインストールは必要です。
 https://www.youtube.com/channel/UC8cpDr5Q9zRvZsCUEIVvWtg
 
 にで見て下さい。
+
+MeshParameterizeは画像のあるプログランムではありません。
+
+使用方法はビデオにチェックして下さい。

@@ -13,3 +13,9 @@ Dx11ANDPhysx　と　InverseIK　は
 directx runtimeインストールは必要です。
 
 またDx11ANDPhysxはx64のシステムではないと動きません。
+
+作品のビデオは
+
+https://www.youtube.com/channel/UC8cpDr5Q9zRvZsCUEIVvWtg
+
+にで見て下さい。

@@ -1,6 +1,7 @@
 # If the text is garbled, please convert encoding to UTF-8.
 
 実行ファイルを実行するのは
+
 https://www.microsoft.com/ja-JP/download/details.aspx?id=40784
 Visual Studio 2013 の Visual C++ 再頒布可能パッケージ
 
